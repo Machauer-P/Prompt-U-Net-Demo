@@ -1,2 +1,4 @@
 # Prompt-U-Net-in-Nora
-Quickstart on Interactive Medical Image Segmentation with Prompt U-Net: Web Demo running locally on your computer.
+This guide will help you set up and run the interactive segmentation environment locally. 
+
+> **Note for Reviewers:** Since the interface follows professional radiology standards, I highly recommend watching the **[60-second Video Tutorial](#link-zum-video)** before starting your first segmentation.
