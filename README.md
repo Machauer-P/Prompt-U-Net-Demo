@@ -5,6 +5,8 @@
 
 > **"A leap towards generalizable, lightweight, and user-controllable AI in clinical workflows."**
 
+Authors: Paul Machauer, Dr. Marco Reisert, Prof. Dr. Janis Keuper 
+
 ## Scientific Core Innovation
 Prompt U-Net transforms static segmentation into an **interactive, context-aware process**. Unlike "black-box" models, it leverages **In-Context Learning** to adapt to unseen anatomical structures using minimal data, while beating important baseline models.
 
@@ -49,7 +51,7 @@ To bridge the gap between research and clinical application, this project is dep
 ### Technical Documentation & Publication
 For an in-depth discussion of the methodology, loss functions, and initial benchmark results, please refer to our preprint:
 
-**[Link to Paper / Preprint Placeholder]**
+**[Preprint](prompt_unet_preprint.pdf)**
 
 > **Note on Project Evolution:** 
 > This project is under active development. While the preprint provides the foundational scientific framework, the current implementation (especially the TF.js web version) has evolved further. The future publication will include architectural refinements and further research, for example into computational complexity and memory footprint. 
