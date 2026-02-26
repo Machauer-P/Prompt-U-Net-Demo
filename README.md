@@ -34,5 +34,5 @@ To bridge the gap between research and clinical application, this project is dep
   *   *Note: While a core part of the research paper for 3D consistency, SSF is not yet included in the Browser Demo.*
 - **Interactive Feedback (IF):** Enables "Lab-in-the-loop" refinement. A clinician can provide a manual correction on a missegmented area, which is fed back into the dual-encoder to instantly update and improve future masks.
 
-img1
-img2
+![](iamges/Figure_1.png)<br>
+![](iamges/Figure_2.png)<br>
