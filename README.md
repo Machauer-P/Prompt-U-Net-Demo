@@ -15,12 +15,12 @@ Due to its architectural design, the architecture achieves significantly lower c
 ---
 
 ## Deployment: Clinical Accessibility via TF.js
-To bridge the gap between research and clinical application, this project is deployed using **TensorFlow.js**. We prooved that compared to heavy models it's possible to run
+To bridge the gap between research and clinical application, this project is deployed using TensorFlow.js. We demonstrated that, compared to resource-intensive models, it is possible to achieve high-fidelity segmentation locally on standard consumer hardware without compromising accuracy.
 
 **Why this matters for Clinicians/Researchers:**
 1. **Zero-Setup:** No Python/Docker/GPU drivers needed. Works instantly in any browser.
 2. **Data Privacy:** Full **client-side inference**. Medical data never leaves the local machine.
-3. **Lab-in-the-loop:** Perfect for real-time interaction during imaging or screening.
+3. **In-context learning:** Perfect for real-time interaction during imaging or screening.
 
 ---
 
@@ -40,15 +40,9 @@ To bridge the gap between research and clinical application, this project is dep
 <img src="images/Figure_1.png" style="width: 60%; max-width: 600px;">
 <img src="images/Figure_2.png" style="width: 35%; max-width: 600px;">
 
+---
 
-
-
-
-
-
-
-
-### Technical Documentation & Publication
+## Technical Documentation & Publication
 For an in-depth discussion of the methodology, loss functions, and initial benchmark results, please refer to our preprint:
 
 **[Preprint](prompt_unet_preprint.pdf)**
