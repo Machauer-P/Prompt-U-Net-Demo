@@ -1,7 +1,7 @@
 # Prompt U-Net: Clinician-Guided AI for Context-Aware Segmentation 
 
 [![Live Demo](https://img.shields.io/badge/Demo-Launch%20in%20Browser-green?style=for-the-badge)](https://www.nora-imaging.com/)
-[![Status](https://img.shields.io/badge/Paper-Preprint-blue?style=for-the-badge)](#)
+[![Status](https://img.shields.io/badge/Paper-Preprint-blue?style=for-the-badge)](prompt_unet_pre_print.pdf)
 
 > **"A leap towards generalizable, lightweight, and user-controllable AI in clinical workflows."**
 
