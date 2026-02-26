@@ -52,4 +52,4 @@ For an in-depth discussion of the methodology, loss functions, and initial bench
 **[Link to Paper / Preprint Placeholder]**
 
 > **Note on Project Evolution:** 
-> This project is under active development. While the preprint provides the foundational scientific framework, the current implementation (especially the TF.js web version) has evolved further. The future publication will include architectural refinements and further research on e.g. computational complexity and memory foorptint. 
+> This project is under active development. While the preprint provides the foundational scientific framework, the current implementation (especially the TF.js web version) has evolved further. The future publication will include architectural refinements and further research, for example into computational complexity and memory footprint. 
