@@ -27,12 +27,29 @@ To bridge the gap between research and clinical application, this project is dep
 
 ---
 
-## Technical Features:
+## Features:
 - **Dual-Encoder Architecture:** Simultaneously processes medical images and 2D user-provided prompts.
 - **In-Context Learning:** Enables rapid adaptation to new tasks without retraining.
 - **Self-Supervised Feedback (SSF):** Automatically ensures volumetric consistency. The model uses its own predictions from adjacent slices as internal "context" to refine the current segmentation without human intervention.
   *   *Note: While a core part of the research paper for 3D consistency, SSF is not yet included in the Browser Demo.*
 - **Interactive Feedback (IF):** Enables "Lab-in-the-loop" refinement. A clinician can provide a manual correction on a missegmented area, which is fed back into the dual-encoder to instantly update and improve future masks.
+- **Data Efficiency:** Outperforms established baselines with reduced data requirements.
 
 <img src="images/Figure_1.png" style="width: 60%; max-width: 600px;">
 <img src="images/Figure_2.png" style="width: 35%; max-width: 600px;">
+
+
+
+
+
+
+
+
+
+### Technical Documentation & Publication
+For an in-depth discussion of the methodology, loss functions, and initial benchmark results, please refer to our preprint:
+
+**[Link to Paper / Preprint Placeholder]**
+
+> **Note on Project Evolution:** 
+> This project is under active development. While the preprint provides the foundational scientific framework, the current implementation (especially the TF.js web version) has evolved further. The future publication will include architectural refinements and further research on e.g. computational complexity and memory foorptint. 
