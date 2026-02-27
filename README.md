@@ -10,7 +10,7 @@ Authors: Paul Machauer, Dr. Marco Reisert, Prof. Dr. Janis Keuper
 ## Scientific Core Innovation
 Prompt U-Net transforms static segmentation into an **interactive, context-aware process**. Unlike "black-box" models, it leverages **In-Context Learning** to adapt to unseen anatomical structures using minimal data, while beating important baseline models.
 
-Due to its architectural design, the architecture achieves significantly lower computational complexity and a reduced memory footprint compared to established baselines. These optimizations make Prompt U-Net uniquely suited for real-time, in-browser inference, bringing high-performance AI directly into clinical and laboratory workflows with zero installation.
+Due to its design, the architecture achieves significantly lower computational complexity and a reduced memory footprint compared to established baselines. These optimizations make Prompt U-Net uniquely suited for real-time, in-browser inference, bringing high-performance AI directly into clinical and laboratory workflows with zero installation.
 
 ---
 
