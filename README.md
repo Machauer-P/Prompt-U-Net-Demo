@@ -25,7 +25,7 @@ To bridge the gap between research and clinical application, this project is dep
 ---
 
 ## Interactive Demo & Tutorial
-[images/prompt_unet_demo.mp4](https://github.com/Machauer-P/Prompt-U-Net-Demo/blob/main/images/prompt_unet_demo.mp4)
+images/prompt_unet_demo.mp4
 
 ---
 
