@@ -28,9 +28,9 @@ To bridge the gap between research and clinical application, this project is dep
 ### Watch our one minute demo video on YouTube 
 [![Demo Video (YouTube)](images/demo_thumb.png)](https://youtu.be/pYGCIfeopFA)
 ### Or use it yourself on your device inside [Nora Imaging](https://www.nora-imaging.com/)
-- [Nora Imaging Documantation](https://www.nora-imaging.com/)
+- [Nora Imaging Documantation](https://www.nora-imaging.org/doc)
 1. Press 'M' to memorize the segmentation you made
-2. Press 'N' on another slice of the same axis to inference the model on another slice
+2. Press 'N' on another slice of the same axis to create a segmentation
 3. Go ahead if the result meets your expectations. If not, edit it and memorize it
 ---
 
