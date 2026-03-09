@@ -35,7 +35,7 @@ To bridge the gap between research and clinical application, this project is dep
 ---
 
 ## Features:
-- **Dual-Encoder Architecture:** Simultaneously processes medical images and 2D user-provided prompts.
+- **Dual-Encoder Architecture:** Simultaneously processes a medical image and 2D user-provided prompt, with a dedicated conditioning mechanism.
 - **In-Context Learning:** Enables rapid adaptation to new tasks without retraining.
 - **Self-Supervised Feedback (SSF):** Automatically ensures volumetric consistency. The model uses its own predictions from adjacent slices as internal "context" to refine the current segmentation without human intervention.
   *   *Note: While a core part of the research paper for 3D consistency, SSF is not yet included in the Browser Demo.*
